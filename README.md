@@ -63,3 +63,6 @@ Endpoints:
 - Provides a user-friendly UI.
 - Users input their details (age, weight, height, city, smoker status, etc.).
 - Data is processed → sent to FastAPI backend → prediction displayed on UI.
+
+
+For more detailed check: https://medium.com/@amansharmaaa9313/building-an-insurance-premium-category-predictor-with-machine-learning-fastapi-and-streamlit-1c3334f330e8
