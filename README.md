@@ -1,5 +1,5 @@
-Insurance Premium Prediction System
 📌 Project Overview
+Insurance Premium Prediction System
 
 This project predicts the insurance premium category of an individual based on demographic, health, and lifestyle features. It is an end-to-end ML system consisting of:
 
